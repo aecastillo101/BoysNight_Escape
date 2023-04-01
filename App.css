@@ -1,0 +1,81 @@
+@font-face {
+  font-family: horror;
+  src: url("youmurderer-bb.regular.ttf");
+}
+
+.title{
+  height: 81px;
+  background-image: url("../images/1834.jpeg");
+}
+body{
+  text-align: center;
+  margin: 0;
+  font-family: horror;
+  
+}
+
+p{
+  color: white;
+}
+
+h1{
+  font-size: 50px;
+  margin: 0px;
+  color:white;
+}
+
+h3{
+  margin-top: 0px;
+  height: 10px;
+  color:red;
+  font-size: 25px;
+}
+
+.boy{
+ 
+  height: 100px;
+  text-shadow: 0 0 30px black;
+  
+
+}
+
+#dom{
+  
+  background-image: url("../images/dom1.jpeg");
+  background-size: 100px;
+  
+
+}
+#rob{
+  
+  background-image: url("../images/robert.jpeg");
+  background-size: 50px;
+  
+  
+}
+#jay{
+  
+  background-image: url("../images/jay.jpeg");
+  background-size: 100px;
+
+}
+#kevin{
+  
+  background-image: url("../images/kevin.jpeg");
+  background-size: 100px;
+
+}
+
+.minus{
+  background: red;
+  border-radius: 10px;
+}
+
+.plus{
+  background: green;
+  border-radius: 10px;
+
+}
+
+
+
